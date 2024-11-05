@@ -4,7 +4,7 @@
 <h3 align="left">🖋️ SUMMARY</h3>
 <div>
   <p align="left">
-   As a passionate Full-Stack Blockchain Engineer, I'm dedicated to crafting seamless digital experiences from front-end to back-end. With a blend of creativity and technical prowess, I thrive on turning ideas into functional, user-friendly applications. Whether it's designing elegant user interfaces or optimizing database performance, I approach every aspect of development with enthusiasm and precision. My goal is to leverage the latest technologies to build robust, scalable solutions that exceed expectations and make a meaningful impact.
+   Accomplished and results-oriented Web & Mobile Developer with over ten years of extensive experience delivering high-impact digital solutions. Skilled across the full development spectrum, I bring expertise in both front-end and back-end technologies, consistently building scalable, resilient applications tailored for optimal user engagement. Known for meticulous attention to detail and a proactive approach to evolving tech landscapes, I am dedicated to designing and implementing solutions that not only meet but exceed business goals
   </p>
 </div>
 
