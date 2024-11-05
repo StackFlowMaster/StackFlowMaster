@@ -2,15 +2,17 @@
 <h3 align="center">A Passionate Full-Stack Blockchain Engineer</h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
-<div>
+<div style="display:none">
   <p align="left">
    As a passionate Full-Stack Blockchain Engineer, I'm dedicated to crafting seamless digital experiences from front-end to back-end. With a blend of creativity and technical prowess, I thrive on turning ideas into functional, user-friendly applications. Whether it's designing elegant user interfaces or optimizing database performance, I approach every aspect of development with enthusiasm and precision. My goal is to leverage the latest technologies to build robust, scalable solutions that exceed expectations and make a meaningful impact.
   </p>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241105T134833Z&X-Amz-Expires=300&X-Amz-Signature=4349bc79490121adb75f47d6b2451956a954e7ba7bda092c9108e70a87a983cd&X-Amz-SignedHeaders=host" width="900">
 </div>
 
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 
+  <div>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+  </div>
 <h3 align="left">🛠️ EXPERTISE</h3>
 <ul>
   <li>Developing web front-end, back-end, and RESTful API</li>
