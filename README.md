@@ -19,7 +19,7 @@
   <li>Developing hybrid mobile applications with a clean and attractive designs.</li>
   <li>Programming solidity and rust for smart contracts that would be deployed to EVM chains and the Solana network.</li>
 </ul>
-<h3 align="left">🪄 SPECIALIZATION</h3>
+<h3 align="left">✨ SPECIALIZATION</h3>
 <ul>
   <li>SPA frameworks (React, Angular, Vue)</li>
   <li>React Native, Flutter, and Ionic development</li>
