@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm an Veteran Dev</h1>
+<h1 align="center"> ⭐ A Veteran Dev ⭐</h1>
 <h3 align="center">Full Stack Engineer | Mobile Engineer | 10 Years Experience</h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
