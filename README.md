@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![github-stats](https://stats.hyo.dev/api/github-stats?login=hyochan)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <!--
 **StackFlowMaster/StackFlowMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
