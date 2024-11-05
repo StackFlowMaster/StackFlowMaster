@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm an Elegant Developer</h1>
+<h1 align="center">Hi 👋, I'm an Veteran Dev</h1>
 <h3 align="center">Full Stack Engineer | Mobile Engineer | 10 Years Experience</h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
-<div style="display:none">
+<div>
   <p align="left">
    As a passionate Full-Stack Blockchain Engineer, I'm dedicated to crafting seamless digital experiences from front-end to back-end. With a blend of creativity and technical prowess, I thrive on turning ideas into functional, user-friendly applications. Whether it's designing elegant user interfaces or optimizing database performance, I approach every aspect of development with enthusiasm and precision. My goal is to leverage the latest technologies to build robust, scalable solutions that exceed expectations and make a meaningful impact.
   </p>
@@ -10,9 +10,9 @@
 
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 
-  <div>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-  </div>
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+</div>
 <h3 align="left">🛠️ EXPERTISE</h3>
 <ul>
   <li>Developing web front-end, back-end, and RESTful API</li>
