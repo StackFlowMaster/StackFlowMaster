@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241105T134833Z&X-Amz-Expires=300&X-Amz-Signature=4349bc79490121adb75f47d6b2451956a954e7ba7bda092c9108e70a87a983cd&X-Amz-SignedHeaders=host" width="900">
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/StackFlowMaster/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 <!--
 **StackFlowMaster/StackFlowMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
