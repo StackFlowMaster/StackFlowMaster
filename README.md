@@ -8,8 +8,6 @@
   </p>
 </div>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg"/>
-
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
