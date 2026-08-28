@@ -1,10 +1,10 @@
 <h1 align="center"> ⭐ A Veteran Dev ⭐</h1>
-<h3 align="center">Full Stack Engineer | Mobile Engineer | 10 Years Experience</h3>
+<h3 align="center">Full Stack Engineer | Mobile Engineer | 8 Years Experience</h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <div>
   <p align="left">
-   Accomplished and results-oriented Web & Mobile Developer with over ten years of extensive experience delivering high-impact digital solutions. Skilled across the full development spectrum, I bring expertise in both front-end and back-end technologies, consistently building scalable, resilient applications tailored for optimal user engagement. Known for meticulous attention to detail and a proactive approach to evolving tech landscapes, I am dedicated to designing and implementing solutions that not only meet but exceed business goals
+   Accomplished and results-oriented Web & Mobile Developer with over 8 years of extensive experience delivering high-impact digital solutions. Skilled across the full development spectrum, I bring expertise in both front-end and back-end technologies, consistently building scalable, resilient applications tailored for optimal user engagement. Known for meticulous attention to detail and a proactive approach to evolving tech landscapes, I am dedicated to designing and implementing solutions that not only meet but exceed business goals
   </p>
 </div>
 
